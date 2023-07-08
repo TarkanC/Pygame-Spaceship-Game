@@ -1,3 +1,5 @@
+# My first Pygame Project
+
 import pygame
 import os
 
