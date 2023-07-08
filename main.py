@@ -1,8 +1,6 @@
 import pygame
 import os
 
-import numpy as np
-
 pygame.font.init()
 pygame.mixer.init()
 
